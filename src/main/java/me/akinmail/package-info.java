@@ -21,42 +21,8 @@
  * OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
  * SOFTWARE.
  */
-
-package com.akinmail.test.unit;
-
-import org.junit.jupiter.api.Assertions;
-import org.junit.jupiter.api.Test;
-import org.junit.platform.runner.JUnitPlatform;
-import org.junit.runner.RunWith;
-
-import com.akinmail.Bip44Constants;
-
 /**
- * Unit tests for {@link Bip44Constants}.
- * <p>
- * This is just a placeholder test for the unit tests suite.
- *
- * @author Akindele Akinyemi
- *
+ * Provides placeholder classes.
  */
-@RunWith(JUnitPlatform.class)
-public final class TestBip44Constants {
+package me.akinmail;
 
-    /**
-     * Default constructor.
-     */
-    public TestBip44Constants() {
-        super();
-    }
-
-    /**
-     * Tests that the {@code Greeter} returns a greeting.
-     */
-    @Test
-    public final void testConvertSlipHexToDecimal() {
-        Assertions.assertEquals(1, new Bip44Constants().convertSlipHexToDecimal("0x80000001"));
-        Assertions.assertEquals(2894, new Bip44Constants().convertSlipHexToDecimal("0x80000b4e"));
-        Assertions.assertEquals(99999999, new Bip44Constants().convertSlipHexToDecimal("0x85f5e0ff"));
-    }
-
-}

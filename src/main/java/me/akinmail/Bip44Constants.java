@@ -22,7 +22,7 @@
  * SOFTWARE.
  */
 
-package com.akinmail;
+package me.akinmail;
 
 import lombok.Getter;
 

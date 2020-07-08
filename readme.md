@@ -12,7 +12,7 @@ Before beginning with the new project there are a few things which should be edi
 
 Note that the Maven site is using the [Docs Maven Skin](https://github.com/Bernardo-MG/docs-maven-skin), which will have a few configuration requirements of its own.
 
-[![Maven Central](https://img.shields.io/maven-central/v/com.akinmail/bip44-constants.svg)][maven-repo]
+[![Maven Central](https://img.shields.io/maven-central/v/me.akinmail/bip44-constants.svg)][maven-repo]
 [![Bintray](https://api.bintray.com/packages/akinmail/maven/bip44-constants/images/download.svg)][bintray-repo]
 
 [![Release docs](https://img.shields.io/badge/docs-release-blue.svg)][site-release]
@@ -96,7 +96,7 @@ If you wish to fork or modify the code, visit the [GitHub project page][scm], wh
 The project has been released under the [MIT License][license].
 
 [bintray-repo]: https://bintray.com/akinmail/maven/bip44-constants/view
-[maven-repo]: http://mvnrepository.com/artifact/com.akinmail/bip44-constants
+[maven-repo]: http://mvnrepository.com/artifact/me.akinmail/bip44-constants
 [issues]: https://github.com/akinmail/bip44-constants/issues
 [javadoc-develop]: https:///bip44-constants/apidocs
 [javadoc-release]: https:///bip44-constants/apidocs

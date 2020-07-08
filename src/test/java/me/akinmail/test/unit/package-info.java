@@ -24,5 +24,5 @@
 /**
  * Provides placeholder unit tests.
  */
-package com.akinmail.test.unit;
+package me.akinmail.test.unit;
 

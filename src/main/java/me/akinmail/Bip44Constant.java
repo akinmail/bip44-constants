@@ -1,4 +1,4 @@
-package com.akinmail;
+package me.akinmail;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;
